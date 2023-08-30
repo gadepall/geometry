@@ -59,4 +59,6 @@
 \contentsline {chapter}{\numberline {8}Triangle}{205}{chapter.8}%
 \contentsline {chapter}{\numberline {9}Quadrilateral}{219}{chapter.9}%
 \contentsline {chapter}{\numberline {10}Circle}{231}{chapter.10}%
-\contentsline {chapter}{\numberline {11}Miscellaneous }{239}{chapter.11}%
+\contentsline {section}{\numberline {10.1}11}{231}{section.10.1}%
+\contentsline {subsection}{\numberline {10.1.1}11.11.1}{231}{subsection.10.1.1}%
+\contentsline {chapter}{\numberline {11}Miscellaneous }{241}{chapter.11}%
